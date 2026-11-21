@@ -1,0 +1,5 @@
+﻿node_modules/
+cypress/videos/
+run*.log
+RELATORIO_ESTUDO_Atividades_13_14.md
+*.zip

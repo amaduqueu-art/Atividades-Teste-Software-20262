@@ -1,0 +1,14 @@
+{
+  "name": "atividade-13-saucedemo-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atividade 13 - Automação UI/E2E com Cypress no SauceDemo",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:headed": "cypress run --headed --browser electron"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

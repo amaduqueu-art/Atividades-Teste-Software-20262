@@ -1,0 +1,14 @@
+{
+  "name": "atividade-14-automationteststore-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atividade 14 - Automação de Testes de Interface com Cypress no Automation Test Store",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:headed": "cypress run --headed --browser electron"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
